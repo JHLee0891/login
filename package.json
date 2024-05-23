@@ -1,0 +1,14 @@
+{
+  "name": "Server-reboot",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "https://github.com/JHLee0891/login.git",
+  "author": "JHLee0891 <killiacaridos@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.4.0"
+  }
+}
