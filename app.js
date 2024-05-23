@@ -7,3 +7,5 @@ dotenv.config();
 const app = express();
 const port = 3000;
 connect();
+
+app.use(express.json());
